@@ -1,2 +1,3 @@
-# tutorials-_github
+# ゼロからはじめるPython
+https://news.mynavi.jp/series/zeropython
 jupyter notebook
